@@ -12,7 +12,7 @@ echo -n $TM_FILEPATH | pbcopy
 	<key>input</key>
 	<string>none</string>
 	<key>keyEquivalent</key>
-	<string>^@c</string>
+	<string>^@p</string>
 	<key>name</key>
 	<string>Copy Path of Current Document to Clipboard</string>
 	<key>output</key>
